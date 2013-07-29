@@ -1,0 +1,4 @@
+vendor
+.idea
+composer.phar
+phpunut.xml.dist

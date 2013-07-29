@@ -1,0 +1,18 @@
+{
+    "name": "aasiutin/twitter-api-php",
+    "description": "Provides library for Twitter API calls",
+    "authors": [
+        {
+            "name": "Aleksey Asiutin",
+            "email": "sutok85@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "TwitterAPIPHP": "lib"
+        }
+    }
+}
