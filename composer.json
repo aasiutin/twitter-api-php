@@ -1,6 +1,6 @@
 {
     "name": "aasiutin/twitter-api-php",
-    "description": "Provides library for Twitter API calls",
+    "description": "Provides library for Twitter API v1.1 calls",
     "authors": [
         {
             "name": "Aleksey Asiutin",
