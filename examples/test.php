@@ -22,7 +22,4 @@ $tweets = $api->api(
     )
 );
 
-echo "<pre>";
-var_dump($tweets);
-echo "</pre>";
-
+echo "<pre>", json_encode($tweets), "</pre>";
